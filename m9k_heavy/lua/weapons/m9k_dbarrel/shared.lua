@@ -50,9 +50,9 @@ SWEP.data.ironsights			= 1
 
 SWEP.ShellTime			= .5
 
-SWEP.Primary.NumShots	= 10		-- How many bullets to shoot per trigger pull, AKA pellets
-SWEP.Primary.Damage		= 10	-- Base damage per bullet
-SWEP.Primary.Spread		= .03	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
+SWEP.Primary.NumShots	= 8		-- How many bullets to shoot per trigger pull, AKA pellets
+SWEP.Primary.Damage		= 9	-- Base damage per bullet
+SWEP.Primary.Spread		= .4	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .03	-- Ironsight accuracy, should be the same for shotguns
 -- Because irons don't magically give you less pellet spread!
 
