@@ -34,7 +34,7 @@ SWEP.AdminSpawnable			= true
 SWEP.FiresUnderwater = false
 
 SWEP.Primary.Sound			= Sound("Weapon_TDegle.Single")		-- Script that calls the primary fire sound
-SWEP.Primary.RPM			= 600			-- This is in Rounds Per Minute
+SWEP.Primary.RPM			= 225			-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 7		-- Size of a clip
 SWEP.Primary.DefaultClip		= 30		-- Bullets you start with
 SWEP.Primary.KickUp				= 1		-- Maximum up recoil (rise)
@@ -50,8 +50,8 @@ SWEP.data 				= {}				--The starting firemode
 SWEP.data.ironsights			= 1
 
 SWEP.Primary.NumShots	= 1		-- How many bullets to shoot per trigger pull
-SWEP.Primary.Damage		= 90	-- Base damage per bullet
-SWEP.Primary.Spread		= .025	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
+SWEP.Primary.Damage		= 85	-- Base damage per bullet
+SWEP.Primary.Spread		= .01	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .015 -- Ironsight accuracy, should be the same for shotguns
 
 -- Enter iron sight info and bone mod info below
