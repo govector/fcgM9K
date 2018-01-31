@@ -34,8 +34,8 @@ SWEP.AdminSpawnable			= true
 SWEP.FiresUnderwater = false
 
 SWEP.Primary.Sound			= Sound("Dmgfok_vally.Single")		-- Script that calls the primary fire sound
-SWEP.Primary.RPM			= 900			-- This is in Rounds Per Minute
-SWEP.Primary.ClipSize			= 20		-- Size of a clip
+SWEP.Primary.RPM			= 1000			-- This is in Rounds Per Minute
+SWEP.Primary.ClipSize			= 25		-- Size of a clip
 SWEP.Primary.DefaultClip		= 60		-- Bullets you start with
 SWEP.Primary.KickUp				= 0.3		-- Maximum up recoil (rise)
 SWEP.Primary.KickDown			= 0.3		-- Maximum down recoil (skeet)
@@ -50,7 +50,7 @@ SWEP.data 				= {}				--The starting firemode
 SWEP.data.ironsights			= 1
 
 SWEP.Primary.NumShots	= 1		-- How many bullets to shoot per trigger pull
-SWEP.Primary.Damage		= 27	-- Base damage per bullet
+SWEP.Primary.Damage		= 29	-- Base damage per bullet
 SWEP.Primary.Spread		= .019	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .008 -- Ironsight accuracy, should be the same for shotguns
 
