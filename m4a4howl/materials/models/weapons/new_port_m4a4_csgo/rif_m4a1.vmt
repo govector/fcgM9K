@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\new_port_m4a4_csgo\rif_m4a1"
+	"$bumpmap" "models\weapons\new_port_m4a4_csgo\rif_m4a1_normal"
+	 "$phong" "1"
+	"$phongexponent" "100"
+	"$phongboost" ".03"
+	"$phongfresnelranges" "[1 1 1]"
+	"$halflambert" "1"
+}
