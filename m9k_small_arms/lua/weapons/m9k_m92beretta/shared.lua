@@ -50,7 +50,7 @@ SWEP.data 				= {}				--The starting firemode
 SWEP.data.ironsights			= 1
 
 SWEP.Primary.NumShots	= 1		//how many bullets to shoot, use with shotguns
-SWEP.Primary.Damage		= 14	//base damage, scaled by game
+SWEP.Primary.Damage		= 17	//base damage, scaled by game
 SWEP.Primary.Spread		= .027	//define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .019 // has to be the same as primary.spread
 
