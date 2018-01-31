@@ -36,7 +36,7 @@ SWEP.FiresUnderwater = false
 
 SWEP.Primary.Sound			= Sound("hk416weapon.UnsilSingle")		-- Script that calls the primary fire sound
 SWEP.Primary.SilencedSound 	= Sound("hk416weapon.SilencedSingle")
-SWEP.Primary.RPM			= 800			-- This is in Rounds Per Minute
+SWEP.Primary.RPM			= 725			-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 30		-- Size of a clip
 SWEP.Primary.DefaultClip		= 60		-- Bullets you start with
 SWEP.Primary.KickUp				= 0.4		-- Maximum up recoil (rise)
@@ -53,9 +53,9 @@ SWEP.data 				= {}				--The starting firemode
 SWEP.data.ironsights			= 1
 
 SWEP.Primary.NumShots	= 1		-- How many bullets to shoot per trigger pull
-SWEP.Primary.Damage		= 30	-- Base damage per bullet
-SWEP.Primary.Spread		= .025	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
-SWEP.Primary.IronAccuracy = .015 -- Ironsight accuracy, should be the same for shotguns
+SWEP.Primary.Damage		= 33	-- Base damage per bullet
+SWEP.Primary.Spread		= .009	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
+SWEP.Primary.IronAccuracy = .005 -- Ironsight accuracy, should be the same for shotguns
 
 -- Enter iron sight info and bone mod info below
 SWEP.IronSightsPos = Vector(-2.892, -2.132, 0.5)
