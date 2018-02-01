@@ -142,7 +142,7 @@ Weapons[610] = {Model = "models/weapons/w_hk_g36c.mdl", Group = 7, Class = "m9k_
 Weapons[611] = {Model = "models/weapons/w_c4.mdl", Group = 7, Class = "bb_css_c4", Name = "C4", Price = 355000, Ammo = 1000, AmmoClass = "cssc4", Damage = 100, DonatorOnly = true}
 Weapons[612] = {Model = "models/weapons/w_sb.mdl", Group = 7, Class = "m9k_suicide_bomb", Name = "AshTool C4", Price = 1345000, Ammo = 16, AmmoClass = "C4Explosive", Damage = 100, DonatorOnly = true}
 Weapons[613] = {Model = "models/weapons/w_spas_12.mdl", Group = 7, Class = "m9k_spas12", Name = "SPAS12", Price = 1525000, Ammo = 16, AmmoClass = "buckshot", Damage = 100, DonatorOnly = true}
-Weapons[614] = {Model = "models/weapons/w_hk_psg1.mdl", Group = 5, Class = "m9k_psg1", Name = "PSG1", Price = 750000, Ammo = 1000, AmmoClass = "SniperPenetratedRound", Damage = 59, DonatorOnly = true}
-Weapons[615] = {Model = "models/weapons/w_g2_contender.mdl", Group = 5, Class = "m9k_contender", Name = "The Contender", Price = 500000, Ammo = 1000, AmmoClass = "SniperPenetratedRound", Damage = 180, DonatorOnly = true}
-Weapons[616] = {Model = "models/weapons/w_m249_machine_gun.mdl", Group = 2, Class = "m9k_m249lmg", Name = "M249", Price = 950000, Ammo = 1000, AmmoClass = "ar2", Damage = 24, DonatorOnly = true}
+Weapons[614] = {Model = "models/weapons/w_hk_psg1.mdl", Group = 7, Class = "m9k_psg1", Name = "PSG1", Price = 750000, Ammo = 1000, AmmoClass = "SniperPenetratedRound", Damage = 59, DonatorOnly = true}
+Weapons[615] = {Model = "models/weapons/w_g2_contender.mdl", Group = 7, Class = "m9k_contender", Name = "The Contender", Price = 500000, Ammo = 1000, AmmoClass = "SniperPenetratedRound", Damage = 180, DonatorOnly = true}
+Weapons[616] = {Model = "models/weapons/w_m249_machine_gun.mdl", Group = 7, Class = "m9k_m249lmg", Name = "M249", Price = 950000, Ammo = 1000, AmmoClass = "ar2", Damage = 24, DonatorOnly = true}
 Weapons[617] = {Model = "models/weapons/w_dmg_m16ag.mdl", Group = 7, Class = "m9k_m16a4_acog", Name = "M16a4 Acog", Price = 225000, Ammo = 1000, AmmoClass = "ar2", Damage = 30, DonatorOnly = true}
