@@ -35,7 +35,7 @@ SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 
 SWEP.Primary.Sound			= Sound("Weapon_psg_1.Single")		-- script that calls the primary fire sound
-SWEP.Primary.RPM				= 500		-- This is in Rounds Per Minute
+SWEP.Primary.RPM				= 250		-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 10		-- Size of a clip
 SWEP.Primary.DefaultClip			= 60	-- Bullets you start with
 SWEP.Primary.KickUp				= 1				-- Maximum up recoil (rise)
@@ -61,8 +61,8 @@ SWEP.ScopeScale 			= 0.7
 SWEP.ReticleScale 			= 0.6
 
 SWEP.Primary.NumShots	= 1		--how many bullets to shoot per trigger pull
-SWEP.Primary.Damage		= 90	--base damage per bullet
-SWEP.Primary.Spread		= .01	--define from-the-hip accuracy 1 is terrible, .0001 is exact)
+SWEP.Primary.Damage		= 59	--base damage per bullet
+SWEP.Primary.Spread		= .001	--define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .0001 -- ironsight accuracy, should be the same for shotguns
 
 -- enter iron sight info and bone mod info below

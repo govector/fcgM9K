@@ -33,7 +33,7 @@ SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 
 SWEP.Primary.Sound			= Sound("Mberg_590.Single")		-- script that calls the primary fire sound
-SWEP.Primary.RPM				= 75		-- This is in Rounds Per Minute
+SWEP.Primary.RPM				= 70		-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 8			-- Size of a clip
 SWEP.Primary.DefaultClip		= 30	-- Default number of bullets in a clip
 SWEP.Primary.KickUp				= 1				-- Maximum up recoil (rise)
@@ -49,9 +49,9 @@ SWEP.ShellTime			= .5
 SWEP.data 				= {}				--The starting firemode
 SWEP.data.ironsights			= 1
 
-SWEP.Primary.NumShots	= 10		-- How many bullets to shoot per trigger pull, AKA pellets
+SWEP.Primary.NumShots	= 7		-- How many bullets to shoot per trigger pull, AKA pellets
 SWEP.Primary.Damage		= 9	-- Base damage per bullet
-SWEP.Primary.Spread		= .03	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
+SWEP.Primary.Spread		= .06	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .03	-- Ironsight accuracy, should be the same for shotguns
 -- Because irons don't magically give you less pellet spread!
 

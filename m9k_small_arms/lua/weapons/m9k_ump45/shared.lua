@@ -34,12 +34,12 @@ SWEP.AdminSpawnable			= true
 SWEP.FiresUnderwater = false
 
 SWEP.Primary.Sound			= Sound("m9k_hk_ump45.Single")		-- Script that calls the primary fire sound
-SWEP.Primary.RPM			= 800			-- This is in Rounds Per Minute
+SWEP.Primary.RPM			= 750			-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 25		-- Size of a clip
 SWEP.Primary.DefaultClip		= 60		-- Bullets you start with
-SWEP.Primary.KickUp				= 0.09		-- Maximum up recoil (rise)
-SWEP.Primary.KickDown			= 0.04		-- Maximum down recoil (skeet)
-SWEP.Primary.KickHorizontal		= 0.02		-- Maximum up recoil (stock)
+SWEP.Primary.KickUp				= 0.4		-- Maximum up recoil (rise)
+SWEP.Primary.KickDown			= 0.3		-- Maximum down recoil (skeet)
+SWEP.Primary.KickHorizontal		= 0.6		-- Maximum up recoil (stock)
 SWEP.Primary.Automatic			= true		-- Automatic = true; Semi Auto = false
 SWEP.Primary.Ammo			= "smg1"			-- pistol, 357, smg1, ar2, buckshot, slam, SniperPenetratedRound, AirboatGun
 -- Pistol, buckshot, and slam always ricochet. Use AirboatGun for a light metal peircing shotgun pellets
@@ -52,7 +52,7 @@ SWEP.data 				= {}				--The starting firemode
 SWEP.data.ironsights			= 1
 
 SWEP.Primary.NumShots	= 1		-- How many bullets to shoot per trigger pull
-SWEP.Primary.Damage		= 26	-- Base damage per bullet
+SWEP.Primary.Damage		= 28	-- Base damage per bullet
 SWEP.Primary.Spread		= .01	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .008 -- Ironsight accuracy, should be the same for shotguns
 
