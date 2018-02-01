@@ -33,7 +33,7 @@ SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 
 SWEP.Primary.Sound			= Sound("Weapon_a5.Single")		-- script that calls the primary fire sound
-SWEP.Primary.RPM				= 250		-- This is in Rounds Per Minute
+SWEP.Primary.RPM				= 200		-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 6			-- Size of a clip
 SWEP.Primary.DefaultClip		= 30	-- Default number of bullets in a clip
 SWEP.Primary.KickUp				= 1				-- Maximum up recoil (rise)
@@ -50,10 +50,10 @@ SWEP.data.ironsights			= 1
 
 SWEP.ShellTime			= .35
 
-SWEP.Primary.NumShots	= 9		//how many bullets to shoot, use with shotguns
-SWEP.Primary.Damage		= 10	//base damage, scaled by game
-SWEP.Primary.Spread		= .03	//define from-the-hip accuracy 1 is terrible, .0001 is exact)
-SWEP.Primary.IronAccuracy = .03 // has to be the same as primary.spread
+SWEP.Primary.NumShots	= 6		//how many bullets to shoot, use with shotguns
+SWEP.Primary.Damage		= 11	//base damage, scaled by game
+SWEP.Primary.Spread		= .2	//define from-the-hip accuracy 1 is terrible, .0001 is exact)
+SWEP.Primary.IronAccuracy = .2 // has to be the same as primary.spread
 -- Because irons don't magically give you less pellet spread!
 
 -- Enter iron sight info and bone mod info below

@@ -31,10 +31,10 @@ SWEP.FiresUnderwater = false
 
 SWEP.Primary.Sound			= Sound("m4a4_howlin_shot")		-- Script that calls the primary fire sound
 SWEP.Primary.SilencedSound 	= Sound("")		-- Sound if the weapon is silenced
-SWEP.Primary.RPM			= 666	-- This is in Rounds Per Minute
-SWEP.Primary.ClipSize			= 30		-- Size of a clip
+SWEP.Primary.RPM			= 720	-- This is in Rounds Per Minute
+SWEP.Primary.ClipSize			= 32		-- Size of a clip
 SWEP.Primary.DefaultClip		= 60		-- Bullets you start with
-SWEP.Primary.KickUp				= 0.3		-- Maximum up recoil (rise)
+SWEP.Primary.KickUp				= 0.5		-- Maximum up recoil (rise)
 SWEP.Primary.KickDown			= 0.3		-- Maximum down recoil (skeet)
 SWEP.Primary.KickHorizontal		= 0.3		-- Maximum up recoil (stock)
 SWEP.Primary.Automatic			= true		-- Automatic = true; Semi Auto = false
