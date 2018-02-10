@@ -74,13 +74,13 @@ Weapons[11] = {Model = "models/weapons/w_pist_fokkususp.mdl", Group = 1, Class =
 
 --Machine Guns--
 Weapons[100] = {Model = "models/weapons/w_uzi_imi.mdl", Group = 2, Class = "m9k_uzi", Name = "UZI", Price = 75000, Ammo = 1000, AmmoClass = "smg1", Damage = 20, DonatorOnly = false}
-Weapons[101] = {Model = "models/weapons/w_tommy_gun.mdl", Group = 2, Class = "m9k_thompson", Name = "Thompson", Price = 25000, Ammo = 1000, AmmoClass = "smg1", Damage = 28, DonatorOnly = false}
+Weapons[101] = {Model = "models/weapons/w_tommy_gun.mdl", Group = 2, Class = "m9k_thompson", Name = "Thompson", Price = 29000, Ammo = 1000, AmmoClass = "smg1", Damage = 28, DonatorOnly = false}
 Weapons[102] = {Model = "models/weapons/w_hk_mp5.mdl", Group = 2, Class = "m9k_mp5", Name = "MP5", Price = 30000, Ammo = 1000, AmmoClass = "smg1", Damage = 28, DonatorOnly = false}
 Weapons[103] = {Model = "models/weapons/w_mp7_silenced.mdl", Group = 2, Class = "m9k_mp7", Name = "MP7", Price = 30000, Ammo = 1000, AmmoClass = "smg1", Damage = 24, DonatorOnly = false}
 Weapons[104] = {Model = "models/weapons/w_hk_mp5sd.mdl", Group = 2, Class = "m9k_mp5sd", Name = "MP5SD", Price = 35000, Ammo = 1000, AmmoClass = "smg1", Damage = 30, DonatorOnly = false}
 Weapons[105] = {Model = "models/weapons/w_brugger_thomet_mp9.mdl", Group = 2, Class = "m9k_mp9", Name = "MP9", Price = 200000, Ammo = 1000, AmmoClass = "smg1", Damage = 30, DonatorOnly = false}
 Weapons[106] = {Model = "models/weapons/w_kac_pdw.mdl", Group = 2, Class = "m9k_kac_pdw", Name = "PDW", Price = 100000, Ammo = 1000, AmmoClass = "smg1", Damage = 28, DonatorOnly = false}
-Weapons[107] = {Model = "models/weapons/w_fg42.mdl", Group = 2, Class = "m9k_fg42", Name = "FG42", Price = 95000, Ammo = 500, AmmoClass = "ar2", Damage = 38, DonatorOnly = false}
+Weapons[107] = {Model = "models/weapons/w_fg42.mdl", Group = 2, Class = "m9k_fg42", Name = "FG42", Price = 110000, Ammo = 500, AmmoClass = "ar2", Damage = 38, DonatorOnly = false}
 Weapons[108] = {Model = "models/weapons/w_hk_ump45.mdl", Group = 2, Class = "m9k_ump45", Name = "UMP45", Price = 100000, Ammo = 1000, AmmoClass = "smg1", Damage = 26, DonatorOnly = false}
 Weapons[109] = {Model = "models/weapons/w_mach_russ_pkm.mdl", Group = 2, Class = "m9k_pkm", Name = "PKM", Price = 135000, Ammo = 1000, AmmoClass = "ar2", Damage = 33, DonatorOnly = false}
 Weapons[110] = {Model = "models/weapons/w_ares_shrike.mdl", Group = 2, Class = "m9k_ares_shrike", Name = "ARES", Price = 145000, Ammo = 1000, AmmoClass = "ar2", Damage = 30, DonatorOnly = false}
