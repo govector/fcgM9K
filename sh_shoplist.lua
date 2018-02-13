@@ -74,13 +74,13 @@ Weapons[11] = {Model = "models/weapons/w_pist_fokkususp.mdl", Group = 1, Class =
 
 --Machine Guns--
 Weapons[100] = {Model = "models/weapons/w_uzi_imi.mdl", Group = 2, Class = "m9k_uzi", Name = "UZI", Price = 75000, Ammo = 1000, AmmoClass = "smg1", Damage = 20, DonatorOnly = false}
-Weapons[101] = {Model = "models/weapons/w_tommy_gun.mdl", Group = 2, Class = "m9k_thompson", Name = "Thompson", Price = 25000, Ammo = 1000, AmmoClass = "smg1", Damage = 28, DonatorOnly = false}
+Weapons[101] = {Model = "models/weapons/w_tommy_gun.mdl", Group = 2, Class = "m9k_thompson", Name = "Thompson", Price = 29000, Ammo = 1000, AmmoClass = "smg1", Damage = 28, DonatorOnly = false}
 Weapons[102] = {Model = "models/weapons/w_hk_mp5.mdl", Group = 2, Class = "m9k_mp5", Name = "MP5", Price = 30000, Ammo = 1000, AmmoClass = "smg1", Damage = 28, DonatorOnly = false}
 Weapons[103] = {Model = "models/weapons/w_mp7_silenced.mdl", Group = 2, Class = "m9k_mp7", Name = "MP7", Price = 30000, Ammo = 1000, AmmoClass = "smg1", Damage = 24, DonatorOnly = false}
 Weapons[104] = {Model = "models/weapons/w_hk_mp5sd.mdl", Group = 2, Class = "m9k_mp5sd", Name = "MP5SD", Price = 35000, Ammo = 1000, AmmoClass = "smg1", Damage = 30, DonatorOnly = false}
 Weapons[105] = {Model = "models/weapons/w_brugger_thomet_mp9.mdl", Group = 2, Class = "m9k_mp9", Name = "MP9", Price = 200000, Ammo = 1000, AmmoClass = "smg1", Damage = 30, DonatorOnly = false}
 Weapons[106] = {Model = "models/weapons/w_kac_pdw.mdl", Group = 2, Class = "m9k_kac_pdw", Name = "PDW", Price = 100000, Ammo = 1000, AmmoClass = "smg1", Damage = 28, DonatorOnly = false}
-Weapons[107] = {Model = "models/weapons/w_fg42.mdl", Group = 2, Class = "m9k_fg42", Name = "FG42", Price = 95000, Ammo = 500, AmmoClass = "ar2", Damage = 38, DonatorOnly = false}
+Weapons[107] = {Model = "models/weapons/w_fg42.mdl", Group = 2, Class = "m9k_fg42", Name = "FG42", Price = 110000, Ammo = 500, AmmoClass = "ar2", Damage = 38, DonatorOnly = false}
 Weapons[108] = {Model = "models/weapons/w_hk_ump45.mdl", Group = 2, Class = "m9k_ump45", Name = "UMP45", Price = 100000, Ammo = 1000, AmmoClass = "smg1", Damage = 26, DonatorOnly = false}
 Weapons[109] = {Model = "models/weapons/w_mach_russ_pkm.mdl", Group = 2, Class = "m9k_pkm", Name = "PKM", Price = 135000, Ammo = 1000, AmmoClass = "ar2", Damage = 33, DonatorOnly = false}
 Weapons[110] = {Model = "models/weapons/w_ares_shrike.mdl", Group = 2, Class = "m9k_ares_shrike", Name = "ARES", Price = 145000, Ammo = 1000, AmmoClass = "ar2", Damage = 30, DonatorOnly = false}
@@ -92,36 +92,36 @@ Weapons[116] = {Model = "models/weapons/w_pp19_bizon.mdl", Group = 2, Class = "m
 
 --Rifles--
 Weapons[200] = {Model = "models/weapons/w_tct_ak47.mdl", Group = 3, Class = "m9k_ak74", Name = "AK74", Price = 55000, Ammo = 1000, AmmoClass = "ar2", Damage = 31, DonatorOnly = false}
-Weapons[201] = {Model = "models/weapons/w_m4a1_iron.mdl", Group = 3, Class = "m9k_m4a1", Name = "M4A1", Price = 64000, Ammo = 10000, AmmoClass = "ar2", Damage = 30, DonatorOnly = false}
+Weapons[201] = {Model = "models/weapons/w_m4a1_iron.mdl", Group = 3, Class = "m9k_m4a1", Name = "M4A1", Price = 64000, Ammo = 1000, AmmoClass = "ar2", Damage = 30, DonatorOnly = false}
 Weapons[202] = {Model = "models/weapons/w_rif_an_94.mdl", Group = 3, Class = "m9k_an94", Name = "AN94", Price = 475000, Ammo = 1000, AmmoClass = "ar2", Damage = 31, DonatorOnly = false}
 Weapons[203] = {Model = "models/weapons/w_hk_416.mdl", Group = 3, Class = "m9k_m416", Name = "HK 416", Price = 175000, Ammo = 1000, AmmoClass = "ar2", Damage = 30, DonatorOnly = false}
-Weapons[204] = {Model = "models/weapons/w_dmg_vikhr.mdl", Group = 3, Class = "m9k_vikhr", Name = "VIKHR", Price = 75000, Ammo = 1000, AmmoClass = "ar2", Damage = 29, DonatorOnly = false}
+Weapons[204] = {Model = "models/weapons/w_dmg_vikhr.mdl", Group = 3, Class = "m9k_vikhr", Name = "VIKHR", Price = 75000, Ammo = 1000, AmmoClass = "smg1", Damage = 29, DonatorOnly = false}
 Weapons[205] = {Model = "models/weapons/w_ak47_m9k.mdl", Group = 3, Class = "m9k_ak47", Name = "AK47", Price = 475000, Ammo = 1000, AmmoClass = "ar2", Damage = 43, DonatorOnly = false}
 Weapons[206] = {Model = "models/weapons/w_dmg_vally.mdl", Group = 3, Class = "m9k_val", Name = "AS VAL", Price = 375000, Ammo = 1000, AmmoClass = "ar2", Damage = 27, DonatorOnly = false}
 Weapons[207] = {Model = "models/weapons/w_snip_m14sp.mdl", Group = 3, Class = "m9k_m14sp", Name = "M14SP", Price = 600000, Ammo = 1000, AmmoClass = "ar2", Damage = 32, DonatorOnly = false}
-Weapons[208] = {Model = "models/weapons/w_auga3.mdl", Group = 3, Class = "m9k_auga3", Name = "AUG A3", Price = 245000, Ammo = 1000, AmmoClass = "ar2", Damage = 30, DonatorOnly = false}
-Weapons[209] = {Model = "models/weapons/w_fn_fal.mdl", Group = 3, Class = "m9k_fal", Name = "FN Fal", Price = 1500000, Ammo = 500, AmmoClass = "ar2", Damage = 34, DonatorOnly = false}
-Weapons[210] = {Model = "models/weapons/w_m4a1_iron.mdl", Group = 3, Class = "m4a4_howl_original", Name = "M4A4 Howl", Price = 7500000, Ammo = 500, AmmoClass = "ar2", Damage = 33, DonatorOnly = false}
-Weapons[211] = {Model = "models/weapons/w_amd_65.mdl", Group = 3, Class = "m9k_amd65", Name = "AMD65", Price = 950000, Ammo = 500, AmmoClass = "ar2", Damage = 31, DonatorOnly = false}
-Weapons[212] = {Model = "models/weapons/w_imi_tar21.mdl", Group = 3, Class = "m9k_tar21", Name = "TAR-21", Price = 800000, Ammo = 500, AmmoClass = "ar2", Damage = 32, DonatorOnly = false}
-Weapons[213] = {Model = "models/weapons/w_winchester_1873.mdl", Group = 3, Class = "m9k_winchester73", Name = "Model 1873", Price = 345000, Ammo = 50, AmmoClass = "ar2", Damage = 100, DonatorOnly = false}
+Weapons[208] = {Model = "models/weapons/w_auga3.mdl", Group = 3, Class = "m9k_auga3", Name = "AUG A3", Price = 245000, Ammo = 1000, AmmoClass = "smg1", Damage = 30, DonatorOnly = false}
+Weapons[209] = {Model = "models/weapons/w_fn_fal.mdl", Group = 3, Class = "m9k_fal", Name = "FN Fal", Price = 1500000, Ammo = 1000, AmmoClass = "ar2", Damage = 34, DonatorOnly = false}
+Weapons[210] = {Model = "models/weapons/w_m4a1_iron.mdl", Group = 3, Class = "m4a4_howl_original", Name = "M4A4 Howl", Price = 7500000, Ammo = 1000, AmmoClass = "ar2", Damage = 33, DonatorOnly = false}
+Weapons[211] = {Model = "models/weapons/w_amd_65.mdl", Group = 3, Class = "m9k_amd65", Name = "AMD65", Price = 950000, Ammo = 1000, AmmoClass = "ar2", Damage = 31, DonatorOnly = false}
+Weapons[212] = {Model = "models/weapons/w_imi_tar21.mdl", Group = 3, Class = "m9k_tar21", Name = "TAR-21", Price = 800000, Ammo = 1000, AmmoClass = "ar2", Damage = 32, DonatorOnly = false}
+Weapons[213] = {Model = "models/weapons/w_winchester_1873.mdl", Group = 3, Class = "m9k_winchester73", Name = "Model 1873", Price = 345000, Ammo = 100, AmmoClass = "ar2", Damage = 100, DonatorOnly = false}
 Weapons[214] = {Model = "models/weapons/w_l85a2.mdl", Group = 3, Class = "m9k_l85", Name = "L85", Price = 675000, Ammo = 1000, AmmoClass = "ar2", Damage = 32, DonatorOnly = false}
 Weapons[215] = {Model = "models/weapons/w_masada_acr.mdl", Group = 3, Class = "m9k_acr", Name = "ACR", Price = 800000, Ammo = 1000, AmmoClass = "ar2", Damage = 30, DonatorOnly = false}
-Weapons[216] = {Model = "models/weapons/w_fn_f2000.mdl", Group = 3, Class = "m9k_f2000", Name = "F2000", Price = 215000, Ammo = 1000, AmmoClass = "ar2", Damage = 26, DonatorOnly = false}
+Weapons[216] = {Model = "models/weapons/w_fn_f2000.mdl", Group = 3, Class = "m9k_f2000", Name = "F2000", Price = 215000, Ammo = 1000, AmmoClass = "smg1", Damage = 27, DonatorOnly = false}
 
 --Shotguns--
-Weapons[300] = {Model = "models/weapons/w_mossberg_590.mdl", Group = 4, Class = "m9k_mossberg590", Name = "Mossberg590", Price = 15000, Ammo = 55, AmmoClass = "buckshot", Damage = 90, DonatorOnly = false}
+Weapons[300] = {Model = "models/weapons/w_mossberg_590.mdl", Group = 4, Class = "m9k_mossberg590", Name = "Mossberg590", Price = 15000, Ammo = 100, AmmoClass = "buckshot", Damage = 90, DonatorOnly = false}
 Weapons[301] = {Model = "models/weapons/w_double_barrel_shotgun.mdl", Group = 4, Class = "m9k_dbarrel", Name = "Double Barrel", Price = 575000, Ammo = 20, AmmoClass = "AirboatGun", Damage = 100, DonatorOnly = false}
 Weapons[302] = {Model = "models/weapons/w_usas_12.mdl", Group = 4, Class = "m9k_usas", Name = "USAS 12", Price = 1000000, Ammo = 100, AmmoClass = "buckshot", Damage = 60, DonatorOnly = false}
 Weapons[303] = {Model = "models/weapons/w_striker_12g.mdl", Group = 4, Class = "m9k_striker12", Name = "Striker 12", Price = 750000, Ammo = 100, AmmoClass = "buckshot", Damage = 40, DonatorOnly = false}
 Weapons[304] = {Model = "models/weapons/w_browning_auto.mdl", Group = 4, Class = "m9k_browningauto5", Name = "The Browning", Price = 1750000, Ammo = 60, AmmoClass = "buckshot", Damage = 90, DonatorOnly = false}
 
 --Sniper Rifles--
-Weapons[400] = {Model = "models/weapons/w_snip_m24_6.mdl", Group = 5, Class = "m9k_m24", Name = "M24", Price = 300000, Ammo = 1000, AmmoClass = "ar2", Damage = 105, DonatorOnly = false}
-Weapons[401] = {Model = "models/weapons/w_hk_sl8.mdl", Group = 5, Class = "m9k_sl8", Name = "HK SL8", Price = 350000, Ammo = 1000, AmmoClass = "ar2", Damage = 53, DonatorOnly = false}
+Weapons[400] = {Model = "models/weapons/w_snip_m24_6.mdl", Group = 5, Class = "m9k_m24", Name = "M24", Price = 300000, Ammo = 500, AmmoClass = "ar2", Damage = 105, DonatorOnly = false}
+Weapons[401] = {Model = "models/weapons/w_hk_sl8.mdl", Group = 5, Class = "m9k_sl8", Name = "HK SL8", Price = 350000, Ammo = 800, AmmoClass = "ar2", Damage = 53, DonatorOnly = false}
 Weapons[402] = {Model = "models/weapons/w_svd_dragunov.mdl", Group = 5, Class = "m9k_dragunov", Name = "Draganov", Price = 475000, Ammo = 1000, AmmoClass = "SniperPenetratedRound", Damage = 90, DonatorOnly = false}
 Weapons[403] = {Model = "models/weapons/w_snip_int.mdl", Group = 5, Class = "m9k_intervention", Name = "Intervention", Price = 1750000, Ammo = 100, AmmoClass = "SniperPenetratedRound", Damage = 150, DonatorOnly = false}
-Weapons[404] = {Model = "models/weapons/w_dragunov_svu.mdl", Group = 5, Class = "m9k_svu", Name = "SVU", Price = 1000000, Ammo = 60, AmmoClass = "SniperPenetratedRound", Damage = 100, DonatorOnly = false}
+Weapons[404] = {Model = "models/weapons/w_dragunov_svu.mdl", Group = 5, Class = "m9k_svu", Name = "SVU", Price = 1000000, Ammo = 800, AmmoClass = "SniperPenetratedRound", Damage = 100, DonatorOnly = false}
 
 --Explosives--
 Weapons[500] = {Model = "models/weapons/w_grenade.mdl", Group = 6, Class = "weapon_frag", Name = "Frag Grenade", Price = 11250, Ammo = .05, AmmoClass = "Grenade", Damage = 100, DonatorOnly = false}
@@ -135,7 +135,7 @@ Weapons[505] = {Model = "models/weapons/w_px.mdl", Group = 6, Class = "m9k_proxy
 Weapons[600] = {Model = "models/weapons/w_knife_t.mdl", Group = 7, Class = "bb_css_knife", Name = "Knife", Price = 10000, Ammo = 0, AmmoClass = "", Damage = 30, DonatorOnly = true}
 Weapons[601] = {Model = "models/weapons/s_dmgf_co1911.mdl", Group = 7, Class = "m9k_colt1911", Name = "M1911", Price = 15000, Ammo = 1000, AmmoClass = "pistol", Damage = 17, DonatorOnly = true}
 Weapons[602] = {Model = "models/weapons/w_fn_scar_h.mdl", Group = 7, Class = "m9k_scar", Name = "Scar", Price = 55000, Ammo = 1000, AmmoClass = "ar2", Damage = 30, DonatorOnly = true}
-Weapons[603] = {Model = "models/weapons/w_hk_g3.mdl", Group = 7, Class = "m9k_g3a3", Name = "G3A3", Price = 65000, Ammo = 500, AmmoClass = "ar2", Damage = 33, DonatorOnly = true}
+Weapons[603] = {Model = "models/weapons/w_hk_g3.mdl", Group = 7, Class = "m9k_g3a3", Name = "G3A3", Price = 65000, Ammo = 1000, AmmoClass = "ar2", Damage = 33, DonatorOnly = true}
 Weapons[604] = {Model = "models/weapons/w_kriss_vector.mdl", Group = 7, Class = "m9k_vector", Name = "Vector", Price = 65000, Ammo = 1000, AmmoClass = "smg1", Damage = 18, DonatorOnly = true}
 Weapons[605] = {Model = "models/weapons/w_barret_m82.mdl", Group = 7, Class = "m9k_barret_m82", Name = "Barret", Price = 100000, Ammo = 1000, AmmoClass = "SniperPenetratedRound", Damage = 110, DonatorOnly = true}
 Weapons[606] = {Model = "models/weapons/w_fn_p90.mdl", Group = 7, Class = "m9k_smgp90", Name = "P90", Price = 100000, Ammo = 1000, AmmoClass = "smg1", Damage = 32, DonatorOnly = true}
