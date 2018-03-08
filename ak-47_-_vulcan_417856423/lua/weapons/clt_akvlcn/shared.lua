@@ -29,7 +29,7 @@ SWEP.FiresUnderwater = false
 
 SWEP.Primary.Sound			= Sound("clt_vcln-1")		
 SWEP.Primary.SilencedSound 	= Sound("")		
-SWEP.Primary.RPM			= 575			
+SWEP.Primary.RPM			= 500			
 SWEP.Primary.ClipSize			= 30		
 SWEP.Primary.DefaultClip		= 90		
 SWEP.Primary.KickUp				= 0.6		
@@ -46,7 +46,7 @@ SWEP.Secondary.IronFOV			= 70
 SWEP.data 				= {}				
 SWEP.data.ironsights			= 1
 
-SWEP.Primary.Damage		= 23	
+SWEP.Primary.Damage		= 45	
 SWEP.Primary.Spread		= .03	
 SWEP.Primary.IronAccuracy = .02 
 
