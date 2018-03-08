@@ -35,10 +35,10 @@ SWEP.AdminSpawnable			= true
 SWEP.FiresUnderwater = false
 
 SWEP.Primary.Sound			= Sound("Wep_imitavor.single")		-- Script that calls the primary fire sound
-SWEP.Primary.RPM			= 800			-- This is in Rounds Per Minute
+SWEP.Primary.RPM			= 750			-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 30		-- Size of a clip
 SWEP.Primary.DefaultClip		= 60		-- Bullets you start with
-SWEP.Primary.KickUp				= 0.3		-- Maximum up recoil (rise)
+SWEP.Primary.KickUp				= 0.4		-- Maximum up recoil (rise)
 SWEP.Primary.KickDown			= 0.3		-- Maximum down recoil (skeet)
 SWEP.Primary.KickHorizontal		= 0.3		-- Maximum up recoil (stock)
 SWEP.Primary.Automatic			= true		-- Automatic = true; Semi Auto = false
@@ -51,7 +51,7 @@ SWEP.data 				= {}				--The starting firemode
 SWEP.data.ironsights			= 1
 
 SWEP.Primary.NumShots	= 1		-- How many bullets to shoot per trigger pull
-SWEP.Primary.Damage		= 32	-- Base damage per bullet
+SWEP.Primary.Damage		= 34	-- Base damage per bullet
 SWEP.Primary.Spread		= .01	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .005 -- Ironsight accuracy, should be the same for shotguns
 
