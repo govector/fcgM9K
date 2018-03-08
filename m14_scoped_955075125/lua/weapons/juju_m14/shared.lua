@@ -31,7 +31,7 @@ SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 
 SWEP.Primary.Sound			= Sound("juju_m14_shot")		-- script that calls the primary fire sound
-SWEP.Primary.RPM				= 700		-- This is in Rounds Per Minute
+SWEP.Primary.RPM				= 425		-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 20		-- Size of a clip
 SWEP.Primary.DefaultClip			= 80	-- Bullets you start with
 SWEP.Primary.KickUp			= 1.6		-- Maximum up recoil (rise)
@@ -55,7 +55,7 @@ SWEP.data.ironsights			= 1
 SWEP.ScopeScale 			= 0.65
 SWEP.ReticleScale 				= 1.5
 
-SWEP.Primary.Damage		= 49	--base damage per bullet
+SWEP.Primary.Damage		= 51	--base damage per bullet
 SWEP.Primary.Spread		= .035	--define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .0003 -- ironsight accuracy, should be the same for shotguns
 
