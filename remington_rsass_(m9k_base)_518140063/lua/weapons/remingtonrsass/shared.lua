@@ -31,7 +31,7 @@ SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 
 SWEP.Primary.Sound			= Sound("remingtonrsass_shoot")		-- script that calls the primary fire sound
-SWEP.Primary.RPM				= 1400		-- This is in Rounds Per Minute
+SWEP.Primary.RPM				= 380		-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 10		-- Size of a clip
 SWEP.Primary.DefaultClip			= 60	-- Bullets you start with
 SWEP.Primary.KickUp			= .4				-- Maximum up recoil (rise)
@@ -54,7 +54,7 @@ SWEP.data.ironsights			= 1
 SWEP.ScopeScale 			= 0.5
 SWEP.ReticleScale 				= 0.6
 
-SWEP.Primary.Damage		= 30	--base damage per bullet
+SWEP.Primary.Damage		= 57	--base damage per bullet
 SWEP.Primary.Spread		= .015	--define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .01 -- ironsight accuracy, should be the same for shotguns
 
