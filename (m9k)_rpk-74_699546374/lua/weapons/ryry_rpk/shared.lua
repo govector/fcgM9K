@@ -35,7 +35,7 @@ SWEP.Primary.ClipSize			= 75		-- Size of a clip
 SWEP.Primary.DefaultClip		= 750		-- Bullets you start with
 SWEP.Primary.KickUp				= 0.48		-- Maximum up recoil (rise)
 SWEP.Primary.KickDown			= 0.42		-- Maximum down recoil (skeet)
-SWEP.Primary.KickHorizontal		= 0.32		-- Maximum up recoil (stock)
+SWEP.Primary.KickHorizontal		= 0.49		-- Maximum up recoil (stock)
 SWEP.Primary.Automatic			= true		-- Automatic = true; Semi Auto = false
 SWEP.Primary.Ammo			= "ar2"			-- pistol, 357, smg1, ar2, buckshot, slam, SniperPenetratedRound, AirboatGun
 -- Pistol, buckshot, and slam always ricochet. 
