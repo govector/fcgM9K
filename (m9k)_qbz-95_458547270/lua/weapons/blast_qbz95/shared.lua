@@ -30,7 +30,7 @@ SWEP.AdminSpawnable			= true
 SWEP.FiresUnderwater 		= false
 
 SWEP.Primary.Sound				= Sound("qbz97.single")		-- Script that calls the primary fire sound
-SWEP.Primary.RPM				= 650			-- This is in Rounds Per Minute
+SWEP.Primary.RPM				= 810			-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 35		-- Size of a clip
 SWEP.Primary.DefaultClip		= 140		-- Bullets you start with
 SWEP.Primary.KickUp				= 0.3		-- Maximum up recoil (rise)
@@ -48,8 +48,8 @@ SWEP.Secondary.IronFOV			= 50		-- How much you 'zoom' in. Less is more!
 SWEP.data 				= {}				--The starting firemode
 SWEP.data.ironsights			= 1
 
-SWEP.Primary.Damage		= 28	-- Base damage per bullet
-SWEP.Primary.Spread		= .0390	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
+SWEP.Primary.Damage		= 29	-- Base damage per bullet
+SWEP.Primary.Spread		= .02	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .0035 -- Ironsight accuracy, should be the same for shotguns
 
 -- Enter iron sight info and bone mod info below
