@@ -33,7 +33,7 @@ SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 
 SWEP.Primary.Sound			= Sound("as50.Single")		-- script that calls the primary fire sound
-SWEP.Primary.RPM			= 200		-- This is in Rounds Per Minute
+SWEP.Primary.RPM			= 165		-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 10		-- Size of a clip
 SWEP.Primary.DefaultClip		= 40	-- Bullets you start with
 SWEP.Primary.KickUp				= 2			-- Maximum up recoil (rise)
