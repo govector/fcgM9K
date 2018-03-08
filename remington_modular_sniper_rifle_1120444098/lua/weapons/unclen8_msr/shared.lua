@@ -32,7 +32,7 @@ SWEP.Base 				= "unclen8_scoped_base"
 SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 SWEP.Primary.Sound			= Sound("weapons/msr/fire2.wav")		-- script that calls the primary fire sound
-SWEP.Primary.RPM				= 40		-- This is in Rounds Per Minute
+SWEP.Primary.RPM				= 57		-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 8		-- Size of a clip
 SWEP.Primary.DefaultClip		= 80	-- Bullets you start with
 SWEP.Primary.KickUp				= 0.8			-- Maximum up recoil (rise)
@@ -58,7 +58,7 @@ SWEP.ScopeScale 			= 0.7
 SWEP.ReticleScale 			= 0.6
 
 SWEP.Primary.NumShots	= 1		--how many bullets to shoot per trigger pull
-SWEP.Primary.Damage		= 150	--base damage per bullet
+SWEP.Primary.Damage		= 172	--base damage per bullet
 SWEP.Primary.Spread		= .01	--define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .0001 -- ironsight accuracy, should be the same for shotguns
 
