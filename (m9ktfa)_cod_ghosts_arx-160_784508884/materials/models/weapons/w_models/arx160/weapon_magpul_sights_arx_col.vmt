@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\arx160\weapon_magpul_sights_arx_col"
+	"$bumpmap" "models\weapons\v_models\arx160\weapon_magpul_sights_arx_N"
+	"$normalmapalphaenvmapmask" "1"
+	"$phongexponent"   "50"
+	"$phong"   "1"
+	"$phongfresnelranges"   "[0.8 0.9 1]"
+
+	"$phongboost"   "3"
+
+                "$PhongAlbedoTint"  "1"
+
+
+
+	"$PhongExponentTexture" "models\weapons\v_models\arx160\weapon_magpul_sights_arx_s"
+
+}

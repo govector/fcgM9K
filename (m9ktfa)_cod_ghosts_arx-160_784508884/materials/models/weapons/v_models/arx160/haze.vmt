@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\ARX160\haze"
+
+$additive 1
+	"$selfillum" "1"
+	"$nocull" "1"
+}
