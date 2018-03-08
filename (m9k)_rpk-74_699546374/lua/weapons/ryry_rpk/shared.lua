@@ -30,7 +30,7 @@ SWEP.AdminSpawnable			= true
 SWEP.FiresUnderwater 		= true
 
 SWEP.Primary.Sound				= Sound("ryryrpk74m1.single")		-- Script that calls the primary fire sound
-SWEP.Primary.RPM				= 675			-- This is in Rounds Per Minute
+SWEP.Primary.RPM				= 650			-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 75		-- Size of a clip
 SWEP.Primary.DefaultClip		= 750		-- Bullets you start with
 SWEP.Primary.KickUp				= 0.48		-- Maximum up recoil (rise)
