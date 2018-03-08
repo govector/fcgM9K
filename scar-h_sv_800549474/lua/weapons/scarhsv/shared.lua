@@ -63,7 +63,7 @@ SWEP.ScopeScale 			= 0.7
 SWEP.ReticleScale 			= 0.6
 
 SWEP.Primary.NumShots	= 1		--how many bullets to shoot per trigger pull
-SWEP.Primary.Damage		= 150	--base damage per bullet
+SWEP.Primary.Damage		= 39	--base damage per bullet
 SWEP.Primary.Spread		= .02	--define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .0001 -- ironsight accuracy, should be the same for shotguns
 
