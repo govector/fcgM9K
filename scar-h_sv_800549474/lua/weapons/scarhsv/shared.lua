@@ -37,12 +37,12 @@ SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 
 SWEP.Primary.Sound			= Sound("weapons/scarhsv/scarhsv-1.wav")		-- script that calls the primary fire sound
-SWEP.Primary.RPM				= 620		-- This is in Rounds Per Minute
+SWEP.Primary.RPM				= 480		-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 21		-- Size of a clip
 SWEP.Primary.DefaultClip			= 84	-- Bullets you start with
-SWEP.Primary.KickUp				= 0.5				-- Maximum up recoil (rise)
+SWEP.Primary.KickUp				= 0.7				-- Maximum up recoil (rise)
 SWEP.Primary.KickDown			= 0			-- Maximum down recoil (skeet)
-SWEP.Primary.KickHorizontal		= 0.2		-- Maximum up recoil (stock)
+SWEP.Primary.KickHorizontal		= 0.5		-- Maximum up recoil (stock)
 SWEP.Primary.Automatic			= false		-- Automatic/Semi Auto
 SWEP.Primary.Ammo			= "ar2"	-- pistol, 357, smg1, ar2, buckshot, slam, SniperPenetratedRound, AirboatGun
 -- Pistol, buckshot, and slam always ricochet. Use AirboatGun for a light metal peircing shotgun pellets
@@ -63,7 +63,7 @@ SWEP.ScopeScale 			= 0.7
 SWEP.ReticleScale 			= 0.6
 
 SWEP.Primary.NumShots	= 1		--how many bullets to shoot per trigger pull
-SWEP.Primary.Damage		= 39	--base damage per bullet
+SWEP.Primary.Damage		= 38	--base damage per bullet
 SWEP.Primary.Spread		= .02	--define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .0001 -- ironsight accuracy, should be the same for shotguns
 
