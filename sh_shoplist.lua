@@ -167,4 +167,4 @@ Weapons[620] = {Model = "models/weapons/w_ryry_ghostsfp6.mdl", Group = 7, Class 
 Weapons[700] = {Model = "models/weapons/w_vulakclt.mdl", Group = 8, Class = "clt_akvlcn", Name = "AK-47 Vulcan", Price = 0, Ammo = 1000, AmmoClass = "ar2", Damage = 43, DonatorOnly = false, RestictBuy = true}
 Weapons[701] = {Model = "models/weapons/w_neon_usp.mdl", Group = 8, Class = "csgo_usp_neo_noire", Name = "USP-S Neo-Noir", Price = 0, Ammo = 1000, AmmoClass = "pistol", Damage = 43, DonatorOnly = false, RestictBuy = true}
 Weapons[702] = {Model = "models/weapons/w_ssg08_drgn.mdl", Group = 8, Class = "blast_ssg08drgn", Name = "SSG Dragonfire", Price = 0, Ammo = 1000, AmmoClass = "ar2", Damage = 40, DonatorOnly = false, RestictBuy = true}
-Weapons[703] = {Model = "models/weapons/w_aug_per.mdl", Group = 8, Class = "peri_aug", Name = "SSG Dragonfire", Price = 0, Ammo = 1000, AmmoClass = "smg1", Damage = 40, DonatorOnly = false, RestictBuy = true}
+Weapons[703] = {Model = "models/weapons/w_aug_per.mdl", Group = 8, Class = "peri_aug", Name = "AUG Fire", Price = 0, Ammo = 1000, AmmoClass = "smg1", Damage = 40, DonatorOnly = false, RestictBuy = true}
