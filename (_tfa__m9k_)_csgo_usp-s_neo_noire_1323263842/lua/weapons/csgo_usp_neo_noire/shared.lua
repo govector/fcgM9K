@@ -36,7 +36,7 @@ SWEP.ShowWorldModel = false
 
 SWEP.Primary.Sound			= Sound("weapons/neo_noire_usp/usp_unsil-1.wav")		-- Script that calls the primary fire sound
 SWEP.Primary.SilencedSound 	= Sound("weapons/neo_noire_usp/usp1.wav")		-- Sound if the weapon is silenced
-SWEP.Primary.RPM			= 352			-- This is in Rounds Per Minute
+SWEP.Primary.RPM			= 600			-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 12		-- Size of a clip
 SWEP.Primary.DefaultClip		= 24		-- Bullets you start with
 SWEP.Primary.KickUp				= 0.5		-- Maximum up recoil (rise)
@@ -53,7 +53,7 @@ SWEP.CanBeSilenced		= true
 SWEP.data.ironsights			= 1
 
 SWEP.Primary.NumShots	= 1		-- How many bullets to shoot per trigger pull
-SWEP.Primary.Damage		= 27 	-- Base damage per bullet
+SWEP.Primary.Damage		= 31 	-- Base damage per bullet
 SWEP.Primary.Spread		= .008	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .004 -- Ironsight accuracy, should be the same for shotguns
 
