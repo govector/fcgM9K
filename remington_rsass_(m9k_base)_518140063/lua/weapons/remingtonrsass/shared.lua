@@ -31,7 +31,7 @@ SWEP.Spawnable				= true
 SWEP.AdminSpawnable			= true
 
 SWEP.Primary.Sound			= Sound("remingtonrsass_shoot")		-- script that calls the primary fire sound
-SWEP.Primary.RPM				= 380		-- This is in Rounds Per Minute
+SWEP.Primary.RPM				= 450		-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 10		-- Size of a clip
 SWEP.Primary.DefaultClip			= 60	-- Bullets you start with
 SWEP.Primary.KickUp			= .4				-- Maximum up recoil (rise)
