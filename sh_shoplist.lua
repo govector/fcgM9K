@@ -16,6 +16,7 @@ WeaponCategories[4] = "Shotguns"
 WeaponCategories[5] = "Sniper Rifles"
 WeaponCategories[6] = "Explosives"
 WeaponCategories[7] = "VIP+ Weapons"
+WeaponCategories[8] = "Cosmetic Weapons"
 
 --Weak Props--
 Props[1] = {Model = "models/props_borealis/bluebarrel001.mdl", Group = 1, Price = 75, Health = 50, DonatorOnly = false, Description = "Blue Barrel"}
@@ -161,3 +162,9 @@ Weapons[617] = {Model = "models/weapons/w_dmg_m16ag.mdl", Group = 7, Class = "m9
 Weapons[618] = {Model = "models/weapons/w_juju_m14sc.mdl", Group = 7, Class = "juju_m14", Name = "M14", Price = 550000, Ammo = 1000, AmmoClass = "ar2", Damage = 45, DonatorOnly = true}
 Weapons[619] = {Model = "models/weapons/w_gundmr_rfb.mdl", Group = 7, Class = "blast_rfb", Name = "RFB", Price = 1250000, Ammo = 1000, AmmoClass = "ar2", Damage = 75, DonatorOnly = true}
 Weapons[620] = {Model = "models/weapons/w_ryry_ghostsfp6.mdl", Group = 7, Class = "ryry_fp6", Name = "FP6", Price = 500000, Ammo = 1000, AmmoClass = "ar2", Damage = 35, DonatorOnly = true}
+
+--Cosmetic Weapons--
+Weapons[700] = {Model = "models/weapons/w_vulakclt.mdl", Group = 8, Class = "clt_akvlcn", Name = "AK-47 Vulcan", Price = 0, Ammo = 1000, AmmoClass = "ar2", Damage = 43, DonatorOnly = false, RestictBuy = true}
+Weapons[701] = {Model = "models/weapons/w_neon_usp.mdl", Group = 8, Class = "csgo_usp_neo_noire", Name = "USP-S Neo-Noir", Price = 0, Ammo = 1000, AmmoClass = "pistol", Damage = 43, DonatorOnly = false, RestictBuy = true}
+Weapons[702] = {Model = "models/weapons/w_ssg08_drgn.mdl", Group = 8, Class = "blast_ssg08drgn", Name = "SSG Dragonfire", Price = 0, Ammo = 1000, AmmoClass = "ar2", Damage = 40, DonatorOnly = false, RestictBuy = true}
+Weapons[703] = {Model = "models/weapons/w_aug_per.mdl", Group = 8, Class = "peri_aug", Name = "SSG Dragonfire", Price = 0, Ammo = 1000, AmmoClass = "smg1", Damage = 40, DonatorOnly = false, RestictBuy = true}
