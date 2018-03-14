@@ -47,8 +47,8 @@ SWEP.data 				= {}
 SWEP.data.ironsights			= 1
 
 SWEP.Primary.Damage		= 45	
-SWEP.Primary.Spread		= .03	
-SWEP.Primary.IronAccuracy = .02 
+SWEP.Primary.Spread		= .015	
+SWEP.Primary.IronAccuracy = .008
 
 SWEP.IronSightsPos = Vector ( 4.869, -14.039, 1.769 )
 SWEP.IronSightsAng = Vector ( 2.342, -0.145, 0 )
