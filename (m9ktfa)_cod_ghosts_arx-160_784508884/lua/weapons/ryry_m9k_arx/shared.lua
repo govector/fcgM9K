@@ -33,8 +33,8 @@ SWEP.Primary.Sound				= Sound("arx160.single")		-- Script that calls the primary
 SWEP.Primary.RPM				= 857			-- This is in Rounds Per Minute
 SWEP.Primary.ClipSize			= 30		-- Size of a clip
 SWEP.Primary.DefaultClip		= 60		-- Bullets you start with
-SWEP.Primary.KickUp				= 0.42		-- Maximum up recoil (rise)
-SWEP.Primary.KickDown			= 0.42		-- Maximum down recoil (skeet)
+SWEP.Primary.KickUp				= 0.38		-- Maximum up recoil (rise)
+SWEP.Primary.KickDown			= 0.38		-- Maximum down recoil (skeet)
 SWEP.Primary.KickHorizontal		= 0.18		-- Maximum up recoil (stock)
 SWEP.Primary.Automatic			= true		-- Automatic = true; Semi Auto = false
 SWEP.Primary.Ammo			= "ar2"			-- pistol, 357, smg1, ar2, buckshot, slam, SniperPenetratedRound, AirboatGun
@@ -49,7 +49,7 @@ SWEP.data 				= {}				--The starting firemode
 SWEP.data.ironsights			= 1
 
 SWEP.Primary.Damage		= 34	-- Base damage per bullet
-SWEP.Primary.Spread		= .0410	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
+SWEP.Primary.Spread		= .01	-- Define from-the-hip accuracy 1 is terrible, .0001 is exact)
 SWEP.Primary.IronAccuracy = .0040 -- Ironsight accuracy, should be the same for shotguns
 
 -- Enter iron sight info and bone mod info below
